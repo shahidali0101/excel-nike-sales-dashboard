@@ -4,7 +4,7 @@
 
 
 
-![Dashboard Preview](assets/nike_sales_dashboard_2021.png)
+![Dashboard Preview](Snapshot_Dashboard.png)
 
 > **Objective:** Build an interactive Excel dashboard to analyze 2021 Nike sales and operating profit by **Region** and **Product Category**, enabling quick, data‑driven decisions with slicers and a timeline.
 
